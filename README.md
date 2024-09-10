@@ -11,9 +11,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
-mongodb_url=mongodb+srv://admin:admin@cluster0.scytod8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+BackendChess everything(backend) is there in Learn_chess.py
 
-db chessDb_dev
-
-backend url git hub repo->backend_dev_chess  
+db used job-website->chessschool->users1
 
